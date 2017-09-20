@@ -36,7 +36,7 @@ demo地址https://github.com/netease-im/NIM_Web_Demo
 
 * login.js,register.js：登陆，注册相关逻辑处理
 
-* widget/uiKit.js [云信的ui组件库](https://github.com/netease-im/NIM_Web_UIKit)，开发这可以使用该组件来快速开发工程
+* widget/uiKit.js [云信的ui组件库](https://github.com/netease-im/NIM_Web_UIKit)，开发者可以使用该组件来快速开发工程
 
 ### 功能点指引
 #### SDK初始化
